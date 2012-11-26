@@ -6,6 +6,7 @@ public class Receiver11081 implements Runnable {
 	DatagramPacket packetOut = null;
 	DatagramPacket packetIn = null;
 	BufferedReader readFromKeyBoard = null;
+	
 	byte[] dataIn;
 	byte[] dataOut;
 
